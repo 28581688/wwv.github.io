@@ -1,0 +1,2 @@
+echo. > file.txt
+for %%f in (*.html) do type %%f >> file.txt
